@@ -1,0 +1,30 @@
+{
+  "id": "1631209",
+  "name": "minichatico",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4609518",
+      "name": "Contacts",
+      "font_class": "Contacts",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "9142348",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "9762769",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

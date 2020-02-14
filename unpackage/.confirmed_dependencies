@@ -1,0 +1,53 @@
+{
+  "index.html": {
+    "resources": [
+      "miniwechat-list.html",
+      "miniwechat-me.html"
+    ],
+    "refer": [
+      "miniwechat-discover.html",
+      "miniwechat-list.html",
+      "miniwechat-me.html",
+      "miniwechat-contact.html"
+    ]
+  },
+  "login.html": {
+    "refer": [
+      "index.html"
+    ],
+    "resources": []
+  },
+  "miniwechat-me.html": {
+    "refer": [
+      "myface.html",
+      "mynickname.html",
+      "login.html",
+      "myQRCode.html"
+    ],
+    "resources": []
+  },
+  "myface.html": {
+    "refer": [
+      "plugin/v3.1.6/myface-uploader.html"
+    ],
+    "resources": []
+  },
+  "miniwechat-discover.html": {
+    "refer": [
+      "searchFriends.html",
+      "scanme.html"
+    ],
+    "resources": []
+  },
+  "searchFriends.html": {
+    "refer": [
+      "searchFriendsResult.html"
+    ],
+    "resources": []
+  },
+  "scanme.html": {
+    "refer": [
+      "searchFriendsResult.html"
+    ]
+  }
+}
